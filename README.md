@@ -26,6 +26,8 @@ work with the Spotify service for a long time into the future.
 These are the latest available releases for each CPU architecture, all released
 around 2012.
 
+- macOS, universal: [12.1.51](libspotify-12.1.51-Darwin-universal.zip)
+  (SHA256: 80053f0779f6192a8052732904d88b91acc62a350831f6b585a3c6ac10cb8fbd)
 - linux-libc6, amd64: [12.1.51](libspotify-12.1.51-Linux-x86_64-release.tar.gz)
   (SHA256: 43a14e0732ba6ae30078fac105d0e2998d04d5f5c396a4968386bc4e22491058)
 - linux-libc6, armel/armv5t: [12.1.51](libspotify-12.1.51-Linux-armv5-release.tar.gz)
