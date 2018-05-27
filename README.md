@@ -26,11 +26,11 @@ work with the Spotify service for a long time into the future.
 These are the latest available releases for each CPU architecture, all released
 around 2012.
 
-- amd64: [12.1.51](libspotify-12.1.51-amd64.tar.gz)
+- linux-libc6, amd64: [12.1.51](libspotify-12.1.51-Linux-x86_64-release.tar.gz)
   (SHA256: 43a14e0732ba6ae30078fac105d0e2998d04d5f5c396a4968386bc4e22491058)
-- armel: [12.1.51](libspotify-12.1.51-armel.tar.gz)
+- linux-libc6, armel/armv5t: [12.1.51](libspotify-12.1.51-Linux-armv5-release.tar.gz)
   (SHA256: 4d96efcb1423864683917f40fb4df481491250a76cb29be3a235b3732a64fefc)
-- armhf: [12.1.103](libspotify-12.1.103-armhf.tar.gz)
+- linux-libc6, armhf/armv6: [12.1.103](libspotify-12.1.103-Linux-armv6-bcm2708hardfp-release.tar.gz)
   (SHA256: d658e6c1978fb46cf33376eb8367a51d024f4014f21beac1dd264532bcc54b24)
-- i386: [12.1.51](libspotify-12.1.51-i386.tar.gz)
+- linux-libc6, i686: [12.1.51](libspotify-12.1.51-Linux-i686-release.tar.gz)
   (SHA256: 941ab4ba10bcd6ec4e96127afd095a39e11bc955de0882734c97e4f588b155ae)
