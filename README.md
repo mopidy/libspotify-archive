@@ -38,3 +38,11 @@ around 2012.
 | Linux   | armv6hf      | [12.1.103](libspotify-12.1.103-Linux-armv6-bcm2708hardfp-release.tar.gz) | `d658e6c1978fb46cf33376eb8367a51d024f4014f21beac1dd264532bcc54b24` |
 | Linux   | armv7        | [12.1.51](libspotify-12.1.51-Linux-armv7-release.tar.gz)  | `ad27b6c5aee5382b66b39bfea3b1752076b7abcc445979ce25c1ec9d7ff3aeda` |
 | Linux   | i686         | [12.1.51](libspotify-12.1.51-Linux-i686-release.tar.gz)   | `941ab4ba10bcd6ec4e96127afd095a39e11bc955de0882734c97e4f588b155ae` |
+
+
+## Documentation
+
+- API reference: See `share/doc/libspotify/html/index.html` in the Linux
+  releases above.
+- Examples: See `share/doc/libspotify/examples/` in the Linux releases above.
+- [libspotify FAQ](faq.md)
