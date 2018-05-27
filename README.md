@@ -26,6 +26,12 @@ work with the Spotify service for a long time into the future.
 These are the latest available releases for each CPU architecture, all released
 around 2012.
 
+- iOS, ARM/i386: [12.1.64](libspotify-12.1.64-iOS-universal.zip)
+  (SHA256: b32e9183e552c99bb4149e71181fadb26694553cab37a92311be16c286e0736a)
+- Android, ARM: [12.1.51](libspotify-12.1.51-Android-arm-release.tar.gz)
+  (SHA256: 754957de2648e7235e6ead323c22c111282adfc889535a2684c13067d2099505)
+- Win32, x86: [12.1.51](libspotify-12.1.51-win32-release.zip)
+  (SHA256: 7c08475997461c077f79130d3cd1002111448c0ad321025748ffade7a37dda30)
 - macOS, universal: [12.1.51](libspotify-12.1.51-Darwin-universal.zip)
   (SHA256: 80053f0779f6192a8052732904d88b91acc62a350831f6b585a3c6ac10cb8fbd)
 - linux-libc6, amd64: [12.1.51](libspotify-12.1.51-Linux-x86_64-release.tar.gz)
