@@ -4,21 +4,24 @@ This is an unofficial archive of the latest libspotify releases from Spotify,
 as Spotify as of May 2018 no longer hosts these files themselves.
 
 
-## Deprecation
+## WARNING: This library no longer works
 
-Note that as of May 2015 libspotify is officially deprecated by Spotify and is
-no longer actively maintained.
+In May 2015, libspotify was deprecated by Spotify and active maintenance
+stopped. At this point, libspotify had been the main way to integrate with
+Spotify for six years, and was part of numerous open source projects and
+commercial applications, including many receivers and even cars.  It remained
+the only API for playback outside Android and iOS.
 
-Spotify has published newer libraries intended for Android and iOS development,
-as well as web APIs to access track metadata and manage playlists. Though, for
-making apps with Spotify playback capabilities, on any other platform than
-Android and iOS, there is currently no alternative to libspotify.
+In February 2016, server side changes to the Spotify API caused the search
+functionality to stop working, without Spotify ever acknowledging it. Users
+could work around this by using the Spotify web API for searches and
+libspotify for playback.
 
-libspotify has been the main way of integrating with Spotify since 2009, and is
-today a part of numerous open source projects and commercial applications,
-including many receivers and even cars. There's no guarantees, but one can hope
-that the large deployment of libspotify means that the library will continue to
-work with the Spotify service for a long time into the future.
+In April 2022,
+[Spotify announced](https://developer.spotify.com/community/news/2022/04/12/libspotify-sunset/)
+that they would sunset the libspotify API one month later.
+
+In May 2022, new libspotify connections to Spotify started failing.
 
 
 ## Downloads
